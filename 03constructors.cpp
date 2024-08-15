@@ -1,3 +1,4 @@
+//constructor : function  is called when object is created;
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -21,8 +22,11 @@ class Student{
     rollNo = r;
     gpa = g;
   }
+  ~Student()//destructor : function is called when object is destroyed or deleted;
+  {
+    cout<<" Destructors called"<<endl;
+  }
 
-  
 };
 int main()
 {
