@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// a child class inherits from  more then one parent class
 class Animals
 // super class
  {
