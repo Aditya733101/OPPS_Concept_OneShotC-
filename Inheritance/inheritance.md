@@ -4,13 +4,13 @@
 # type of inheritance :
 
  ## 1. Single inheritance
- # -> A class inherits from one superclass.
+ ### -> A class inherits from one superclass.
 
  ## 2. Multiple inheritance
-  # ->  a child class inherits from  more then one parent class.
+  ### ->  a child class inherits from  more then one parent class.
 
  ## 3. Multilevel inheritance
-  # -> A class is derived from another class, which is also derived from another class.
+  ### -> A class is derived from another class, which is also derived from another class.
 
  ## 4. Hybrid inheritance
-  # -> A combination of two or more types of inheritance.
+  ### -> A combination of two or more types of inheritance.
